@@ -17,7 +17,8 @@ void Init_Graph(int N,int k,int** S,int **C)
     cout << "驶入每一阶段又哪些点：输入X 1 2 3 表示该阶段有x个点，分别为1，2，3：" << endl;
     for (i = 1; i < k;i++)
     {
-    cout<<"输入第"<<i<<"阶段的状态点数："
+        cout << "输入第" << i << "阶段的状态点数：";
+        
     }
 }
 
