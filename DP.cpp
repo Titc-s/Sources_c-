@@ -18,7 +18,12 @@ void Init_Graph(int N,int k,int** S,int **C)
     for (i = 1; i < k;i++)
     {
         cout << "输入第" << i << "阶段的状态点数：";
-        
+        cin>>X;
+        cout << "这些点分别为：";
+        for (j = 0; j < X;j++)
+        {
+            cin >> S[i][j];
+        }
     }
 }
 
