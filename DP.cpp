@@ -24,6 +24,8 @@ void Init_Graph(int N,int k,int** S,int **C)
         {
             cin >> S[i][j];
         }
+
+        
     }
 }
 
