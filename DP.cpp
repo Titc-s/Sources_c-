@@ -32,5 +32,5 @@ void Init_Graph(int N,int k,int** S,int **C)
 
  void FMultiGraph()
  {
-
+wow
  }
