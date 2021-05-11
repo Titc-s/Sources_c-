@@ -1,0 +1,62 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+class Point
+{
+public:
+    Point();
+    ~Point();
+    Point (Point &);
+    void set(int, int);
+    void getX();
+    void getY();
+
+   
+protected:
+int _X;
+int _Y;
+};
+
+Point::Point ()
+{
+    _X = 0;
+    _Y = 0;
+    cout << "调用构造函数" << endl;
+}
+ Point::Point (Point &p)
+{
+    _X = p._X;
+    _Y = p._Y;
+}
+void Point ::set(int x,int y)
+{
+    _X = x;
+    _Y = y;
+}
+void Point ::getX()
+{
+    cout << _X << " ";
+}
+void Point ::getY()
+{
+    cout << _Y << " " << endl;
+}
+Point::~Point()
+{
+    cout << "调用析构函数" << endl;
+}
+int main()
+{
+    int x, y;
+    Point test;
+    cout << "请输入整数x和y" << endl;
+    cin >> x >> y;
+    test.set(x, y);
+    test.getX();
+    test.getY();
+    Point copy = test;
+    cout << " 拷贝后为" << endl;
+    copy.getX();
+    copy.getY();
+    return 0;
+}

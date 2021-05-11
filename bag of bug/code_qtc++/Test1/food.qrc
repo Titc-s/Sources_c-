@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/new/food">
+        <file>pic/pork.jpg</file>
+        <file>pic/potato.jpg</file>
+    </qresource>
+    <qresource prefix="/new/inf"/>
+    <qresource prefix="/">
+        <file>pic/balance.jpg</file>
+        <file>pic/bill.jpg</file>
+        <file>pic/card.jpg</file>
+        <file>pic/chips.jpg</file>
+        <file>pic/cola.jpg</file>
+        <file>pic/inf.jpg</file>
+        <file>pic/pass word.jpg</file>
+        <file>pic/pork.jpg</file>
+        <file>pic/potato.jpg</file>
+        <file>pic/report the lose.jpg</file>
+        <file>pic/tomato.jpg</file>
+        <file>pic/vegetables.jpg</file>
+    </qresource>
+</RCC>

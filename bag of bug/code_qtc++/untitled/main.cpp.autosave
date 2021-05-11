@@ -1,0 +1,26 @@
+#include "mainwindow.h"
+
+#include <QApplication>
+#include<QTableWidget>
+#include<QTableWidgetItem>
+
+int main(int argc, char *argv[])
+{
+    QApplication a(argc, argv);
+    
+    MainWindow w;
+    
+    QTableWidget *tablewidget = new QTableWidget (10,3);
+    tablewidget->resize(400,300);
+    QStringList header;
+    header<<"account"<<"password"<<"i";
+    tablewidget->setHorizontalHeaderLabels(header);
+    tablewidget->show();
+    
+    
+
+
+
+    w.show();
+    return a.exec();
+}
