@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.languageServer": "Microsoft",
+		"python.pythonPath": "E:\\tools\\anaconda\\python.exe"
+	}
+}
