@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "..\\bag of bug\\code_python"
+		}
+	],
+	"settings": {
+		"python.languageServer": "Microsoft"
+	}
+}

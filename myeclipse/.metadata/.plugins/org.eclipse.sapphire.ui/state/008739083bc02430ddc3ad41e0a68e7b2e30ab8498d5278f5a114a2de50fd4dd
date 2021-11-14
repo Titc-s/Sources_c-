@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MasterDetailsEditorPageState>
+    <ContentOutlineState>
+        <Root>
+            <Children>
+                <MasterDetailsNodeState>
+                    <Label>General Settings</Label>
+                    <Expanded>true</Expanded>
+                </MasterDetailsNodeState>
+                <MasterDetailsNodeState>
+                    <Label>JSP Configuration</Label>
+                    <Expanded>true</Expanded>
+                    <Selected>true</Selected>
+                </MasterDetailsNodeState>
+            </Children>
+        </Root>
+        <Visible>true</Visible>
+        <Ratio>0.29720853858784896</Ratio>
+    </ContentOutlineState>
+</MasterDetailsEditorPageState>

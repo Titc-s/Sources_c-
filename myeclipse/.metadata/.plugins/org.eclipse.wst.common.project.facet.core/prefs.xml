@@ -1,0 +1,9 @@
+<root>
+  <facet id="jst.jaxrs">
+    <node name="libprov">
+      <node name="last-provider-used">
+        <attribute name="2.1" value="maven-lib-provider"/>
+      </node>
+    </node>
+  </facet>
+</root>

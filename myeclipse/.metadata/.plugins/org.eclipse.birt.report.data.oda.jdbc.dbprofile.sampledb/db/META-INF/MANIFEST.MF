@@ -1,0 +1,255 @@
+Manifest-Version: 1.0
+Created-By: 1.5.0_08 (Sun Microsystems Inc.)
+
+Name: BirtSample/seg0/c1c0.dat
+SHA-256-Digest: xL2R9EaoVtmsbI5uXXh0PiPb8IfwIkTwNFMeu1LZs1s=
+
+Name: BirtSample/seg0/c361.dat
+SHA-256-Digest: S3rMJMEH48UwxwhlpAMMAwjL1gCG4OssM9CsMMlVRdE=
+
+Name: BirtSample/seg0/c191.dat
+SHA-256-Digest: /EzMHtBYjo3isw0DfDOhcvxK6WHLVtuiO1yRjJDpLRc=
+
+Name: BirtSample/seg0/c1b1.dat
+SHA-256-Digest: x6Qq5wlrMau+TNI6unUwWr2gjJm8qMF6eAshKgLiAqE=
+
+Name: BirtSample/seg0/c60.dat
+SHA-256-Digest: uGj4sGzptJCUbmp7TGBxedh8dRoS4PO+F98jsKr+FxA=
+
+Name: BirtSample/seg0/ce1.dat
+SHA-256-Digest: MIPk7J5YT0J7QauQihwa8+QN7caynndnWt+y5yD0crQ=
+
+Name: BirtSample/seg0/c2a1.dat
+SHA-256-Digest: 5onjPqntTobUHXqvUy9DeGPvh3NsyruoR5VvwL/7h6E=
+
+Name: BirtSample/seg0/c10.dat
+SHA-256-Digest: IgCI9JoyATqI1njuPFHEwhkM+WSrSsxa6LFma6zP8ys=
+
+Name: BirtSample/seg0/c611.dat
+SHA-256-Digest: 3MnrWlwp+nfeqvPnChMDymMkZcVyPh8Ey3Lj4dnAW64=
+
+Name: BirtSample/seg0/c230.dat
+SHA-256-Digest: oqFsafWKREdx+FmJe9wpMFJKMZYvF40Mw/hNG6LfAmA=
+
+Name: BirtSample/seg0/c3d1.dat
+SHA-256-Digest: B6TXllSFTNxIwIHoO3QRPRXCZOC45AByoTOlPA3syEQ=
+
+Name: BirtSample/seg0/c211.dat
+SHA-256-Digest: McD2AmoezdA+GxaILGxWSL6luxd/3oM5M5tNVTC6pps=
+
+Name: BirtSample/seg0/c51.dat
+SHA-256-Digest: 9RfChbPS2+mc/dLZphBUVv5m5w3CzAyAyA96dq1a2c4=
+
+Name: BirtSample/seg0/c591.dat
+SHA-256-Digest: 4Dg4hYpr9FYndWux5CcA0dyYT7IRCnyqv7exRVA7aDA=
+
+Name: BirtSample/seg0/c5b1.dat
+SHA-256-Digest: vTz2vXk7qxGHyUGuysDLmZms4PH0xS7UhJvHz8p7N7o=
+
+Name: BirtSample/seg0/c141.dat
+SHA-256-Digest: 2ZR+tRmZM49g2HW96CAIA//Lp1lmiHhWnOGGLaCr+1k=
+
+Name: BirtSample/seg0/c300.dat
+SHA-256-Digest: rgafzY1Jgs59WBPrdOtrUOWWqdO8/5aFnYI3iE6YWfQ=
+
+Name: BirtSample/seg0/c5c0.dat
+SHA-256-Digest: MOnFPYpL6wVyGUX/9Pwul9D5WaCF+DkqPMTs97Xwqe8=
+
+Name: BirtSample/seg0/c221.dat
+SHA-256-Digest: c/0+xcLBF0/KKvT+lFAkwVsIzqWqHUZgGMR8SSFceDc=
+
+Name: BirtSample/seg0/c281.dat
+SHA-256-Digest: HVu7TEOWSoPqF5f6+H7hiE7ZTXxtgCDpNEISRl3Zq84=
+
+Name: BirtSample/seg0/c521.dat
+SHA-256-Digest: Rj26JBqqFSi/hhdljfiEVUlBaOnHmv4wMhs+pwwd+cM=
+
+Name: BirtSample/seg0/c5f1.dat
+SHA-256-Digest: aqWSvAgYP5CMlv5iskUwmhG8WjgP2WxXDSI3klpDvkU=
+
+Name: BirtSample/seg0/c1a1.dat
+SHA-256-Digest: sjWRfPGm/lcNlj7PyS/P9Y/h+N8YWvIic4z8xBUMFEI=
+
+Name: BirtSample/seg0/c290.dat
+SHA-256-Digest: BcPfGi6CoetfoVI6wgw0MIl2O5oxfSwQC/66hR6yh5I=
+
+Name: BirtSample/service.properties
+SHA-256-Digest: Fc+gsi/swLKWivkhWzUOzY3OPvleoO5YjemDxyCt2HY=
+
+Name: BirtSample/seg0/c2f0.dat
+SHA-256-Digest: nOLBGOviFiVzHKfKTVVplfmbk3zbqpu9plCZJs/eoNc=
+
+Name: BirtSample/seg0/c530.dat
+SHA-256-Digest: lhkWL/3Yh5ZGsiKOuQRhb940UIcRn53B1cj6Sbst+XU=
+
+Name: BirtSample/seg0/c2b1.dat
+SHA-256-Digest: 3PQZ3HL2GlaDOATipcLf2ynDBVhbPS4adk8iFoiKaZI=
+
+Name: BirtSample/seg0/c2e1.dat
+SHA-256-Digest: UWj7gnsG70rK8lr78iHmilAQFWccYOjhPbgQACpBO68=
+
+Name: BirtSample/seg0/c380.dat
+SHA-256-Digest: rB0S9HYp7GPXa4wiAzabHmo7w0NLWPLIaF2/aG+JtNw=
+
+Name: BirtSample/seg0/c541.dat
+SHA-256-Digest: 6WypBvONmG5amDjKAd2ciFkZyt+cv7bI26mCzBSyQng=
+
+Name: BirtSample/seg0/c3f1.dat
+SHA-256-Digest: H3KuHmK9c/LDDdH+HoS1uLfxG3pjniGiR83baLCYoPQ=
+
+Name: BirtSample/seg0/c20.dat
+SHA-256-Digest: 1GtfGYYHI+5LTbd2iIWMtbhSQ3pm0WCxNJ76bA82rMU=
+
+Name: BirtSample/seg0/c321.dat
+SHA-256-Digest: sieSn0k7nuTZskNPBXhiXYyaCTomBQiIEYwuAykhUzA=
+
+Name: BirtSample/seg0/cf0.dat
+SHA-256-Digest: AMm1dWcKL8cjzz67KOqLzbB1P+jy4ezbB7sVFqJKtDs=
+
+Name: BirtSample/seg0/c3a1.dat
+SHA-256-Digest: bwFyD8AuC7gKx8gCo+F5voz371d0xBVYsRsORNLeviA=
+
+Name: BirtSample/seg0/c81.dat
+SHA-256-Digest: OWnDfDhdKx71LdNYJKJ+EY97ivSe5+CkcqUTH1SyUEU=
+
+Name: BirtSample/seg0/ca1.dat
+SHA-256-Digest: Kt+VvMmdVLKa9ZMPGaLdGoOdb8e33HDLr0r/RleGHBc=
+
+Name: BirtSample/seg0/c271.dat
+SHA-256-Digest: Op3RdblPCeupbILoUtNeXwj8v+DGi90gazsqOZEN78U=
+
+Name: BirtSample/seg0/c510.dat
+SHA-256-Digest: wDrnn0jlOr4tlkYW2SdsPgonDiOcd2u3lL+QwVHwovk=
+
+Name: BirtSample/seg0/c3c0.dat
+SHA-256-Digest: WOs35AomfeX6LBUUVZNtEJnX39CQ8FMpQXYHjx1KONY=
+
+Name: BirtSample/seg0/cd1.dat
+SHA-256-Digest: TLcbRrewtyDa4nr4zIkYK1UyvbcV5JaOBikfVpLi5Fc=
+
+Name: BirtSample/seg0/c351.dat
+SHA-256-Digest: 9h5af/jS4BUGvWb1Hj0f2uwvbcgItSesTUFZ1wUW9HI=
+
+Name: BirtSample/seg0/c130.dat
+SHA-256-Digest: uY87m0yqyQAS/lAp2WhxawImVSIy02kSGVs/5b1OHdk=
+
+Name: BirtSample/seg0/c571.dat
+SHA-256-Digest: 5w3+8RCJHvZZAFAhxjl/bWsnE7dEX7JhUzbXG9K9IRs=
+
+Name: BirtSample/seg0/c5e0.dat
+SHA-256-Digest: dHGayO5pdEDndPy4rVlLT5rBWgTN0xyxskVxXT6wIvY=
+
+Name: BirtSample/log/log.ctrl
+SHA-256-Digest: W/bqmSOvlMmEVaxHMpMq9KydhnOltb0g1ewX7GJoEZ8=
+
+Name: BirtSample/seg0/c31.dat
+SHA-256-Digest: zX1ec3r5ggKi9zU+X18/HM9Yxuwv4yYp6I7fuAqT0T0=
+
+Name: BirtSample/seg0/c3b1.dat
+SHA-256-Digest: Z13/fH75Ew0ysSeT4/rnEUuIztFEc6sXGtnqQDKv1MU=
+
+Name: BirtSample/seg0/c2d0.dat
+SHA-256-Digest: iil4UoSB+AuJWJY6pm2OApYpGnc9oF76DzXht/Db7+w=
+
+Name: BirtSample/seg0/c391.dat
+SHA-256-Digest: ewJfeCVpmqrOh5HAbRS2L1b9KqncC4ufqKkqALoEs54=
+
+Name: BirtSample/seg0/cb1.dat
+SHA-256-Digest: 6/ohyjvvN3KwWZtD2oak5rZMrIdir2+D6mC65Uq+Fc8=
+
+Name: BirtSample/seg0/c161.dat
+SHA-256-Digest: UPz2lj0xbMD/QoZ+4Ninf9Jv/ho2atAkFr9bZKY1QTU=
+
+Name: BirtSample/seg0/c241.dat
+SHA-256-Digest: iwVyEkQAnEXwskvuGjNOuu8IsSXPPxkXE1s6gDpurHY=
+
+Name: BirtSample/seg0/c2c1.dat
+SHA-256-Digest: 4hnMgwbj1JVSfoVCap8vw4swceFNZtLjz0POiQcxd/I=
+
+Name: BirtSample/seg0/c90.dat
+SHA-256-Digest: r3bj36BUtcUWa/AJ+BCw2Hgvv8cL4lDc9hqxcB7JFXY=
+
+Name: BirtSample/seg0/c200.dat
+SHA-256-Digest: DPbsS0e/sy9IJlYXwZnTWl+S7jYlf10Ph3ttqiIhl3E=
+
+Name: BirtSample/seg0/cc0.dat
+SHA-256-Digest: kF6320M6r20CwPJqm88YGz1SJQKUVFzlBfADx5a2QkY=
+
+Name: BirtSample/seg0/c171.dat
+SHA-256-Digest: 1yPJwtMLLQrVOh7HbXoV0Nz9LHeh1SFgj9368uFclNI=
+
+Name: BirtSample/seg0/c260.dat
+SHA-256-Digest: t6dsUyQvB0tuetwg45AjMXi9g5jTuRjdDb1W+14l0RI=
+
+Name: BirtSample/seg0/c561.dat
+SHA-256-Digest: 3XtnQHerwzKFJSLyJi+c1whcq0HdcaBEwwKFAbG+XmY=
+
+Name: BirtSample/seg0/c1e0.dat
+SHA-256-Digest: ghCTzMhJnX9Q9BBgtpy2l8k6PDf2fCVCqZZKe6cwVxE=
+
+Name: BirtSample/seg0/c111.dat
+SHA-256-Digest: tl533ABxr9xtDTeTGLt4pU0aRMh6BOjCMaEnrmNWk94=
+
+Name: BirtSample/seg0/c340.dat
+SHA-256-Digest: oD87QNidUrYHo++ZxAM/GFqahRWhMg1tTbvnC+Cpoco=
+
+Name: BirtSample/seg0/c101.dat
+SHA-256-Digest: uryUUj3/C3h+mjRLbTLLlKenyPhHnduNqDqLnscZP9E=
+
+Name: BirtSample/seg0/c180.dat
+SHA-256-Digest: s539eokFaNOHMypdNkN0hyq/EKe6hg7kJkReTukyMgw=
+
+Name: BirtSample/seg0/c251.dat
+SHA-256-Digest: enRfe+LHGfJFDQZTz9J00NLG4+kWPtPTlfZ94hXwPRg=
+
+Name: BirtSample/seg0/c1d1.dat
+SHA-256-Digest: P+vrKCwCqWkpS62Iw+jjinmdL5RaG2HbJxp2RGkZhKs=
+
+Name: BirtSample/seg0/c331.dat
+SHA-256-Digest: ctxVnFUlUPWvBFM5KLJ0tB7jSJIrNkp5ue0cSEpI+N8=
+
+Name: BirtSample/seg0/c600.dat
+SHA-256-Digest: sE6vacxw8zKltu22z26uP215GUIitJZs0S0lwx1oOm0=
+
+Name: BirtSample/seg0/c71.dat
+SHA-256-Digest: n1SnVlsBouwryThUDS6k3/2FVwyZGwrcI1vC4N/oJo8=
+
+Name: BirtSample/log/log1.dat
+SHA-256-Digest: J6vO65pD5GTnMW+i6Vk4RMPPZen76ofBF3eRvCDpBVE=
+
+Name: BirtSample/seg0/c150.dat
+SHA-256-Digest: xKCj0INgURgE8hsP0Z/qOwprxxVwB64H27tC7BDJBwQ=
+
+Name: BirtSample/seg0/c5a0.dat
+SHA-256-Digest: 4i0yKgyqITS8jhDGfYtVmh1kb3LqOjmxM3qWYrpeKTs=
+
+Name: BirtSample/seg0/c371.dat
+SHA-256-Digest: FiZYTXtizgIAX/B2YCgraxo77NkyPaPnnpb+gcvsy4I=
+
+Name: BirtSample/seg0/c580.dat
+SHA-256-Digest: 0yaFxqc/Cu8MkQ3mnyCWiEe+5BI7nSJN1NAGngzz/Lg=
+
+Name: BirtSample/log/logmirror.ctrl
+SHA-256-Digest: W/bqmSOvlMmEVaxHMpMq9KydhnOltb0g1ewX7GJoEZ8=
+
+Name: BirtSample/seg0/c1f1.dat
+SHA-256-Digest: A1zisBhAa5pANvtjqFsVBa9Wab3MLoQzvnyBIcj7bss=
+
+Name: BirtSample/seg0/c311.dat
+SHA-256-Digest: 8atw/QvqQe1WkZHwqJhuWGlJqIyrWzbWiNmbFzWZ37s=
+
+Name: BirtSample/seg0/c550.dat
+SHA-256-Digest: beYY5s0rnx5aqrc2SM52hJhti9xHXJZbOHUSoVG+xbY=
+
+Name: BirtSample/seg0/c5d1.dat
+SHA-256-Digest: gd1OwapWQbGxGKwIBZBxIJiY9eAWN/Y0B2aFovT5a8I=
+
+Name: BirtSample/seg0/c41.dat
+SHA-256-Digest: CXeEsvLDwWde8+0v8hQShGZVQ2ALBlbjGvaptDpSsgk=
+
+Name: BirtSample/seg0/c121.dat
+SHA-256-Digest: 7hoZFNO4BaA0qs4xjL3n7oj7pLUOxFmNgh8hkVKUBRM=
+
+Name: BirtSample/seg0/c3e1.dat
+SHA-256-Digest: R/nr0li+umUJmIllUsyNxbu5/oN1T1PZg+2xwZjD5Zg=
+

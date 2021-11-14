@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sat Nov 13 16:03:30 CST 2021
+org.eclipse.jst.jee.server\:jsp_jdbc=E\:\\java\\tom\\webapps\\jsp_jdbc
+org.eclipse.jst.jee.server\:jsp_javabean_jdbc=E\:\\java\\tom\\webapps\\jsp_javabean_jdbc
