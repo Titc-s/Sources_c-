@@ -1,0 +1,16 @@
+E:\CodeBase\bag of bug\code_c#\bin\Debug\net5.0\code_c#.exe
+E:\CodeBase\bag of bug\code_c#\bin\Debug\net5.0\code_c#.deps.json
+E:\CodeBase\bag of bug\code_c#\bin\Debug\net5.0\code_c#.runtimeconfig.json
+E:\CodeBase\bag of bug\code_c#\bin\Debug\net5.0\code_c#.runtimeconfig.dev.json
+E:\CodeBase\bag of bug\code_c#\bin\Debug\net5.0\code_c#.dll
+E:\CodeBase\bag of bug\code_c#\bin\Debug\net5.0\ref\code_c#.dll
+E:\CodeBase\bag of bug\code_c#\bin\Debug\net5.0\code_c#.pdb
+E:\CodeBase\bag of bug\code_c#\obj\Debug\net5.0\code_c#.csproj.AssemblyReference.cache
+E:\CodeBase\bag of bug\code_c#\obj\Debug\net5.0\code_c#.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeBase\bag of bug\code_c#\obj\Debug\net5.0\code_c#.AssemblyInfoInputs.cache
+E:\CodeBase\bag of bug\code_c#\obj\Debug\net5.0\code_c#.AssemblyInfo.cs
+E:\CodeBase\bag of bug\code_c#\obj\Debug\net5.0\code_c#.csproj.CoreCompileInputs.cache
+E:\CodeBase\bag of bug\code_c#\obj\Debug\net5.0\code_c#.dll
+E:\CodeBase\bag of bug\code_c#\obj\Debug\net5.0\ref\code_c#.dll
+E:\CodeBase\bag of bug\code_c#\obj\Debug\net5.0\code_c#.pdb
+E:\CodeBase\bag of bug\code_c#\obj\Debug\net5.0\code_c#.genruntimeconfig.cache
