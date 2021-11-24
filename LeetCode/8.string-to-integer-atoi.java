@@ -40,5 +40,4 @@ class Solution {
         return total * flag;
 
     }
-}
-// @lc code=end
+}// @lc code=end
