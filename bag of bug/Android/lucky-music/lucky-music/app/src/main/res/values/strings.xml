@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LuckyMusic</string>
+    <string name="lm_songs_list_add_bt">Add song list</string>
+    <string name="lm_songs_my_list">My song list</string>
+    <string name="lm_play_list">Play list</string>
+    <string name="lm_song_list_add_bt">Add song</string>
+    <string name="lm_songs_list_local">Local</string>
+    <string name="lm_songs_list_mark">Mark</string>
+
+    <string name="lm_no_item">Empty List </string>
+    <string name="lm_common_remind">remind</string>
+    <string name="lm_common_measure">ok</string>
+    <string name="lm_common_operate">operate</string>
+    <string name="lm_common_candle">candle</string>
+    <string name="lm_common_back">back</string>
+    <string name="lm_songs_name">songs name</string>
+    <string name="lm_common_unknown_song">unkown song</string>
+    <string name="lm_play_list_null">empty list</string>
+    <string name="lm_setting_searching">searching</string>
+    <string name="lm_setting_search_end">search finish!</string>
+    <string name="lm_setting_find_song">search song</string>
+    <string name="lm_setting_about">About</string>
+    <string name="lm_setting_about_github_title">github:</string>
+    <string name="lm_setting_about_github_value">https://github.com/dengzhenli</string>
+    <string name="lm_setting_about_qq_title">QQ:</string>
+    <string name="lm_setting_about_qq_value">2329932038</string>
+    <string name="lm_main_exit_app_remind">Are you sure to Exit？</string>
+    <string name="lm_song_songs_operate_play">Play</string>
+    <string name="lm_song_songs_operate_delete">Delete</string>
+    <string name="lm_song_songs_operate_edit">Edit</string>
+    <string name="lm_song_songs_operate_pre_play">Add to playlist</string>
+    <string name="lm_song_songs_operate_play_measure_message">Replace Playlist?</string>
+    <string name="lm_song_songs_operate_delete_measure_message">Delete?</string>
+    <string name="lm_song_song_operate_delete">Delete</string>
+    <string name="lm_song_song_operate_edit">Edit</string>
+    <string name="lm_song_song_operate_pre_play">Next play</string>
+    <string name="lm_song_song_operate_add_to_songs">Add to songs</string>
+
+    <string name="lm_song_song_edit_album_label">Album</string>
+    <string name="lm_song_song_edit_album_hint">Input Album</string>
+    <string name="lm_song_song_edit_artist_label">Artist</string>
+    <string name="lm_song_song_edit_artist_hint">Input Artist</string>
+    <string name="lm_song_song_edit_title_label">Title</string>
+    <string name="lm_song_song_edit_title_hint">Input Title</string>
+
+    <string name="lm_song_songs_edit_name_label">Song List Name</string>
+    <string name="lm_song_songs_edit_name_hint">Input Name</string>
+    <!-- Main -->
+    <string-array name="lm_main_titles">
+        <item>home</item>
+        <item>list</item>
+        <item>setting</item>
+    </string-array>
+</resources>

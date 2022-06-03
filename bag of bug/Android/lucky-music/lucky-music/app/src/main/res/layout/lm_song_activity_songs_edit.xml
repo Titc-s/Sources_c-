@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="viewModel"
+            type="org.fattili.luckymusic.ui.view.main.song.edit.SongsEditViewModel" />
+    </data>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@color/lm_background"
+        tools:context=".ui.view.main.song.edit.SongsEditActivity">
+
+        <include
+            android:id="@+id/lm_song_activity_songs_edit_title"
+            layout="@layout/lm_common_title" />
+
+        <LinearLayout
+            style="@style/lm_song_edit_ll"
+            android:layout_marginTop="16dp"
+            android:layout_height="50dp">
+
+            <TextView
+                android:id="@+id/lm_song_activity_songs_edit_name_tv"
+                style="@style/lm_song_edit_tv"
+                android:text="@string/lm_song_songs_edit_name_label"  />
+
+            <EditText
+                android:id="@+id/lm_song_activity_songs_edit_name_et"
+                style="@style/lm_song_edit_et"
+                android:text="@={viewModel.songs.name}"
+                android:hint="@string/lm_song_songs_edit_name_hint" />
+        </LinearLayout>
+
+    </LinearLayout>
+</layout>

@@ -1,0 +1,3 @@
+include ':file_select'
+include ':app'
+rootProject.name = "LuckyMusic"

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioGroup
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/lm_main_tb_controls_rg"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="?android:attr/actionBarSize"
+    android:layout_gravity="end"
+    android:gravity="center_vertical"
+    tools:showIn="@layout/lm_main_activity_main"
+    android:divider="@drawable/lm_common_divider_large_horizontal"
+    android:showDividers="beginning|middle|end"
+    >
+
+    <RadioButton
+        android:id="@+id/lm_main_tb_music_rg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:button="@drawable/lm_main_selector_nav_music"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        tools:button="@drawable/lm_main_ic_nav_play_list_selected_24"
+        tools:checked="true"
+        />
+
+
+    <RadioButton
+        android:id="@+id/lm_main_tb_play_list_rg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:button="@drawable/lm_main_selector_nav_play_list"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        tools:button="@drawable/lm_main_ic_nav_music_24"
+        />
+
+    <RadioButton
+        android:id="@+id/lm_main_tb_settings_rg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:button="@drawable/lm_main_selector_nav_settings"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        tools:button="@drawable/lm_main_ic_nav_settings_24"
+        />
+</RadioGroup>

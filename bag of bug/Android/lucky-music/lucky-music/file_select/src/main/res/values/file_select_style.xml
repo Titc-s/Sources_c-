@@ -1,0 +1,7 @@
+<resources>
+    <style name="file_select_pop_animation" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/file_select_popup_bottom_to_top</item>
+        <item name="android:windowExitAnimation">@anim/file_select_popup_top_to_bottom</item>
+    </style>
+    <color name="file_select_grey">#4F4F4F</color>
+</resources>

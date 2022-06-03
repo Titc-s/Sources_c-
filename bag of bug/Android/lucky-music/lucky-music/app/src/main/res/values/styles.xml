@@ -1,0 +1,102 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+
+        <item name="android:windowAnimationStyle">@style/lm_activity_animation</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+        <item name="android:windowAnimationStyle">@style/lm_activity_animation</item>
+
+
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="lm_activity_animation" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/lm_enter_anim</item>
+        <item name="android:windowExitAnimation">@anim/lm_exit_anim</item>
+    </style>
+
+    <style name="lm_pop_animation" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/lm_popup_bottom_to_top</item>
+        <item name="android:windowExitAnimation">@anim/lm_popup_top_to_bottom</item>
+    </style>
+
+    <style name="lm_dialog_base" parent="android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowAnimationStyle">@style/lm_scale_style</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <!-- 背景无灰度 -->
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="lm_scale_style" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/lm_dialog_scale_in_from_center</item>
+        <item name="android:windowExitAnimation">@anim/lm_dialog_scale_out_from_center</item>
+    </style>
+
+    <style name="lm_font_style_14">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/lm_font</item>
+    </style>
+    <style name="lm_font_style_16">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/lm_font</item>
+    </style>
+    <style name="lm_font_style_18">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/lm_font</item>
+    </style>
+    <style name="lm_font_style_dark_16">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/snow</item>
+    </style>
+    <style name="lm_font_style_dark_14">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/snow</item>
+    </style>
+    <style name="lm_font_style_dark_18">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/snow</item>
+    </style>
+
+    <style name="lm_song_edit_ll">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">@color/snow</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+    </style>
+    <style name="lm_song_edit_tv">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/lm_font</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+    <style name="lm_song_edit_et">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/lm_font</item>
+        <item name="hintTextColor">@color/gray</item>
+        <item name="android:gravity">right</item>
+        <item name="android:background">@color/transparent</item>
+    </style>
+
+</resources>

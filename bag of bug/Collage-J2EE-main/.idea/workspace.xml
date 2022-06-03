@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e0b0df0-a15b-4ef5-bf32-ed5ff14c57c5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/../../.vs/slnx.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode/note/Image/13.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Myproject_01" beforeDir="false" afterPath="$PROJECT_DIR$/../Myproject_01" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code_c#/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code_c#/bin/Debug/net5.0/code_c#.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../code_c#/bin/Debug/net5.0/code_c#.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code_c#/bin/Debug/net5.0/code_c#.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../code_c#/bin/Debug/net5.0/code_c#.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code_c#/bin/Debug/net5.0/ref/code_c#.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../code_c#/bin/Debug/net5.0/ref/code_c#.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code_c#/obj/Debug/net5.0/code_c#.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../code_c#/obj/Debug/net5.0/code_c#.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code_c#/obj/Debug/net5.0/code_c#.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../code_c#/obj/Debug/net5.0/code_c#.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code_c#/obj/Debug/net5.0/code_c#.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../code_c#/obj/Debug/net5.0/code_c#.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code_c#/obj/Debug/net5.0/code_c#.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../code_c#/obj/Debug/net5.0/code_c#.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code_c#/obj/Debug/net5.0/code_c#.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../code_c#/obj/Debug/net5.0/code_c#.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code_c#/obj/Debug/net5.0/code_c#.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../code_c#/obj/Debug/net5.0/code_c#.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code_c#/obj/Debug/net5.0/ref/code_c#.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../code_c#/obj/Debug/net5.0/ref/code_c#.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/.vs/chat/config/applicationhost.config" beforeDir="false" afterPath="$PROJECT_DIR$/../../web/chat/.vs/chat/config/applicationhost.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/.vs/chat/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../web/chat/.vs/chat/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../../web/chat/chat.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/Web.Debug.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/Web.Release.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/Web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/chat.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/chat.dll.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/chat.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/Microsoft.CSharp.Core.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/Microsoft.CodeAnalysis.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/Microsoft.Managed.Core.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/Microsoft.VisualBasic.Core.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/Microsoft.Win32.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/System.AppContext.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/System.Collections.Immutable.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/System.Console.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/System.Diagnostics.DiagnosticSource.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/System.Diagnostics.FileVersionInfo.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/System.Diagnostics.StackTrace.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/System.Globalization.Calendars.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/System.IO.Compression.ZipFile.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/System.IO.Compression.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/System.IO.FileSystem.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/System.IO.FileSystem.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/System.Net.Http.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/System.Net.Sockets.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/System.Reflection.Metadata.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/System.Security.Cryptography.Algorithms.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/System.Security.Cryptography.Encoding.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/System.Security.Cryptography.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/System.Security.Cryptography.X509Certificates.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/System.Text.Encoding.CodePages.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/System.Threading.Tasks.Extensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/System.ValueTuple.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/System.Xml.ReaderWriter.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/System.Xml.XPath.XDocument.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/System.Xml.XPath.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/System.Xml.XmlDocument.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/VBCSCompiler.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/VBCSCompiler.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/csc.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/csc.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/csc.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/csi.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/csi.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/csi.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/vbc.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/vbc.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/bin/roslyn/vbc.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/chat.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/chat.csproj.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/obj/Debug/chat.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/obj/Debug/chat.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/obj/Debug/chat.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/obj/Debug/chat.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/obj/Debug/chat.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/chat/chat/packages.config" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="267b7eed-a820-4029-bc42-af71bc5aced1" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="22JVVv9Q5INa3eVqbMOau4nlXmG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../java/J2ee" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.backend.BackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\12401\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e0b0df0-a15b-4ef5-bf32-ed5ff14c57c5" name="Changes" comment="" />
+      <created>1639555704078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639555704078</updated>
+      <workItem from="1639555705801" duration="310000" />
+      <workItem from="1639910890062" duration="11751000" />
+      <workItem from="1639922746466" duration="64000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
