@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <!ELEMENT order (OrderInformation,ConsigneeInformation,PayAndDelivery,BillInformation,ProductList,PaymentInformation)>
 <!ELEMENT OrderInformation EMPTY>
 <!ELEMENT ConsigneeInformation (Consignee,Address,FixedPhone,MobilePhone,Email)>
@@ -22,6 +23,7 @@
 <!ELEMENT Freight (#PCDATA)>
 <!ELEMENT Cashback (#PCDATA)>
 <!ELEMENT OrderAmount (#PCDATA)>
+
 <!ATTLIST OrderInformation OrderID ID #REQUIRED>
 <!ATTLIST OrderInformation OrderState (正在出库|正在配送|完成) "正在出库">
 <!ATTLIST PayAndDelivery PayMethod (在线支付|邮局汇款|公司转账|分期付款|货到付款) "货到付款">

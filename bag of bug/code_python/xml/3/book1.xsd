@@ -1,0 +1,53 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:simpleType name="ISBNType" > 
+    <xs:restriction base="xs:string"> 
+        <xs:pattern value="\d{3}-\d{4}-\d{2}-\d{1}"/>
+        <xs:pattern value="\d{3}-\d{3}-\d{3}-\d{1}"/> 
+        <xs:pattern value="\d{1}-\d{3}-\d{5}-\d{1}"/>
+    </xs:restriction>
+    </xs:simpleType>
+    <xs:element name="Libary">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Book">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="BookName" type="xs:string"></xs:element>
+                            <xs:element name="Author">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="AuthorName" type="xs:string"></xs:element>
+                                        <xs:element name="Gender" type="xs:string"></xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="Publisher">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="PublisherName" type="xs:string"></xs:element>
+                                        <xs:element name="PublisherAddress">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="Province" type="xs:string"></xs:element>
+                                                    <xs:element name="City" type="xs:string"></xs:element>
+                                                    <xs:element name="AddressDetail" type="xs:string"></xs:element>
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="Price" type="xs:double"></xs:element>
+                            <xs:element name="BookNumber" type="xs:int"></xs:element>
+                            <xs:element name="PublishDate" type="xs:date"></xs:element>
+                            <xs:element name="CatalogueDateTime" type="xs:dateTime"></xs:element>
+                            <xs:element name="InStoreTime" type="xs:dateTime"></xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="ISBN" type="ISBNType"></xs:attribute>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

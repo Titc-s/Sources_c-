@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!--关于图书管理系统的图书信息列表-->
+<booklist>
+    <book series="高等学校计算机专业规划教材">
+        <BookName>JAVA程序设计案例教程</BookName>
+        <Category>计算机</Category>
+        <Authors>
+            <Authorone>沈大林</Authorone>
+            <Authortwo>张伦</Authortwo>
+        </Authors>
+        <Pulisher>中国铁道出版社</Pulisher>
+        <Pubdate>2011年11月</Pubdate>
+        <Rerision>第2版</Rerision>
+        <ISBN>9787113137113</ISBN>
+        <Bookid>TPO01</Bookid>
+        <Page>286</Page>
+        <Bookcondition>在馆</Bookcondition>
+        <Price>32.00</Price>
+        <Abstract>本书使用sun公司发布的JavaSEUpdate23作为开发工具，对AVA语言进行介绍。
+        采用知识与实例相结合的方法进行讲解，通过学习实例掌握程序设计的方法与技巧</Abstract>
+    </book>
+    <borrowbook:book xmlns:borrowbook="http://www.yjcollege.net/book" series="21世纪高等学校计算机专业教材">
+        <borrowbook:BookName>XML基础教程</borrowbook:BookName>
+        <borrowbook:Category>计算机</borrowbook:Category>
+        <borrowbook:Authors>
+            <Authorone>范春梅</Authorone>
+            <Authortwo>张卫华</Authortwo>
+        </borrowbook:Authors>
+        <borrowbook:Publisher>人民邮电出版社</borrowbook:Publisher>
+        <borrowbook:Pubdate>2009年11月</borrowbook:Pubdate>
+        <borrowbook:Rerision>第1版社</borrowbook:Rerision>
+        <borrowbook:ISBN>9787115205292</borrowbook:ISBN>
+        <borrowbook:Bookid>TP002</borrowbook:Bookid>
+        <borrowbook:Page>7208</borrowbook:Page>
+        <borrowbook:Bookcondition>借出</borrowbook:Bookcondition>
+        <borrowbook:Price>24.00</borrowbook:Price>
+        <borrowbook:Abstract>从实际出发深入讲解相关知识点，突出实践</borrowbook:Abstract>
+    </borrowbook:book>
+</booklist>
+          

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE order SYSTEM "./order.dtd">
+<order>
+    <OrderInformation OrderID="_123"></OrderInformation>
+
+    <ConsigneeInformation>
+        <Consignee>收货人A</Consignee>
+        <Address>地址A</Address>
+        <FixedPhone>固定电话A</FixedPhone>
+        <MobilePhone>手机号码A</MobilePhone>
+        <Email>电子邮件A</Email>
+    </ConsigneeInformation>
+
+    <PayAndDelivery></PayAndDelivery>
+
+    <BillInformation>
+        <BillTitle>发票抬头A</BillTitle>
+        <BillContent>发票内容A</BillContent>
+    </BillInformation>
+
+    <ProductList>
+        <Product>
+            <ProductID>商品编号A</ProductID>
+            <ProductName>商品名称A</ProductName>
+            <ProductPrice>价格A</ProductPrice>
+            <ProductNumber>商品数量</ProductNumber>
+        </Product>
+    </ProductList>
+
+    <PaymentInformation>
+        <ProductAmount>商品总额</ProductAmount>
+        <Freight>运费</Freight>
+        <Cashback>返现</Cashback>
+        <OrderAmount>应付金额</OrderAmount>
+    </PaymentInformation>
+</order>
